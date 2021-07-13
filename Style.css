@@ -1,0 +1,111 @@
+body {
+    background-color: rgb(39, 39, 39);
+}
+
+h1 {
+    font-size: 50px;
+    font-family: monospace;
+    color: orangered;
+    justify-content: center;
+    display: flex;
+    padding: 5px;
+}
+
+h2 {
+    font-size: 22px;
+    font-family: monospace;
+    color: green;
+    justify-content: center;
+    display: flex;
+}
+
+.Header {
+    margin: 0px;
+}
+
+.Grid {
+    margin: 5px;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+.Camel {
+    font-size: 15px;
+    font-family: monospace;
+    color: yellow;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px;
+    margin: 5px;
+}
+
+.Cham {
+    font-size: 15px;
+    font-family: monospace;
+    color: greenyellow;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px;
+    margin: 5px;
+}
+
+.Pigeon {
+    font-size: 15px;
+    font-family: monospace;
+    color: aqua;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px;
+    margin: 5px;
+}
+
+.Bear {
+    font-size: 15px;
+    font-family: monospace;
+    color: tan;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px;
+    margin: 5px;
+}
+
+.Panda {
+    font-size: 15px;
+    font-family: monospace;
+    color: rgb(211, 211, 211);
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px;
+    margin: 5px;
+}
+
+.Cicada {
+    font-size: 15px;
+    font-family: monospace;
+    color: rgb(165, 127, 77);
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px;
+    margin: 5px;
+}
+
+a {
+    font-size: 13px;
+    font-family: monospace;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+.Grid img:hover {
+    transform: scale(1.2);
+}
